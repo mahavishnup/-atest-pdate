@@ -1,4 +1,4 @@
-### Hi there, I'm Mahavishnu - Follow [mahvishnup][website] 👋
+### Hi there, I'm Mahavishnu - Follow [mahavishnup][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [React Native][application]!
@@ -10,10 +10,10 @@
 ### Connect with me:
 
 [<img align="left" alt="mahavishnup.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mahavishnp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mahavishnp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mahavishnp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mahavishnp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mahavishnup | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mahavishnup | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mahavishnup | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mahavishnup | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,34 +43,31 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
-- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
+- [React Native Calculator Application](https://www.youtube.com/watch?v=w5TeDpHzcP8&list=PLeTSvpNL-hRj2rptGjmwsGbB4U2GnvcPC&index=2&t=0s)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [How To PHP Much Faster And More Secure To Run](https://medium.com/@selvamvishnu25/php-mvc-70efac63f759)
+- [PHP ToDo List](https://medium.com/@selvamvishnu25/phptodolist-a4a8953680fb)
+- [Online Based Library Managing System Using PHP](https://medium.com/@selvamvishnu25/library-305ff0dfbbe9)
+- [PHP OOPs CRUD](https://medium.com/@selvamvishnu25/php-oops-crud-dc16f75abf53)
+- [How Do You Build In Automatic Password Generated Using Django In Python3](https://medium.com/@selvamvishnu25/automatic-password-generating-37731e177f1e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="mahavishnup's Github Stats" src="https://github-readme-stats.mahavishnup.vercel.app/api?username=mahavishnup&show_icons=true&hide_border=true" />
 
-[website]: https://mahavishup.github.io
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[website]: https://mahavishnup.github.io
+[twitter]: https://twitter.com/selvamvishnu251
+[youtube]: https://youtube.com/channel/UCK75dW3PU7rSyk6kD0gZsng?view_as=subscriber
+[instagram]: https://instagram.com/developermahavishnu/
+[linkedin]: https://linkedin.com/in/developermahavishnu/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRisp-A94Y5o2Wct6z0XW0Tp
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[cssplaylist]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRg_2txTgmeS59hjNc5Hu41z
+[reactplaylist]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRgWJZULvXh75uA9dQ-dkLdP
+[reactnative]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRj2rptGjmwsGbB4U2GnvcPC
