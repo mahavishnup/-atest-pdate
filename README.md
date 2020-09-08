@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahavishnu - Follow [mahavishnup][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student, Designer, and Developer!
 - 🔭 I’m currently working on a [React Native][application]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
