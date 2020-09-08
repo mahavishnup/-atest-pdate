@@ -63,7 +63,7 @@
 
 ---
 
-<img align="left" alt="mahavishnup's Github Stats" src="https://github-readme-stats.mahavishnup.vercel.app/api?username=mahavishnup&show_icons=true&hide_border=true" />
+<img align="left" alt="mahavishnup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahavishnup&show_icons=true&hide_border=true" />
 
 [website]: https://mahavishnup.github.io
 [twitter]: https://twitter.com/selvamvishnu251
