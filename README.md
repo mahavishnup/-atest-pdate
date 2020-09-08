@@ -43,7 +43,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [React Native Calculator Application](https://www.youtube.com/watch?v=w5TeDpHzcP8&list=PLeTSvpNL-hRj2rptGjmwsGbB4U2GnvcPC&index=2&t=0s)
+- [React-Native Calculator app](https://www.youtube.com/watch?v=w5TeDpHzcP8)
+- [💛Thalapathy💛](https://www.youtube.com/watch?v=MIZCByoT0BA)
+- [Believe](https://www.youtube.com/watch?v=PjKnhH7uOdY)
+- [Rajini movie Pandiyan song](https://www.youtube.com/watch?v=XQXr2mroev8)
+- [Junga](https://www.youtube.com/watch?v=QZal3XcrA8s)
 <!-- YOUTUBE:END -->
 
 ---
