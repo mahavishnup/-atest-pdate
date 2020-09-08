@@ -54,11 +54,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To PHP Much Faster And More Secure To Run](https://medium.com/@selvamvishnu25/php-mvc-70efac63f759)
-- [PHP ToDo List](https://medium.com/@selvamvishnu25/phptodolist-a4a8953680fb)
-- [Online Based Library Managing System Using PHP](https://medium.com/@selvamvishnu25/library-305ff0dfbbe9)
-- [PHP OOPs CRUD](https://medium.com/@selvamvishnu25/php-oops-crud-dc16f75abf53)
-- [How Do You Build In Automatic Password Generated Using Django In Python3](https://medium.com/@selvamvishnu25/automatic-password-generating-37731e177f1e)
+- [How to learn React-ui-kit in React Native](https://dev.to/mahavishnup/how-to-learn-react-ui-kit-in-react-native-3jhc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
