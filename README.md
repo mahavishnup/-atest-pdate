@@ -70,4 +70,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRg_2txTgmeS59hjNc5Hu41z
 [reactplaylist]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRgWJZULvXh75uA9dQ-dkLdP
-[reactnative]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRj2rptGjmwsGbB4U2GnvcPC
+[reactnative]: https://www.youtube.com/playlist?list=PLeTSvpNL-hRj2rptGjmwsGbB4U2GnvcPC.
